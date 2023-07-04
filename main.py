@@ -1,4 +1,5 @@
 # 라이브러리 불러오기
+pip install --upgrade pip
 import streamlit as st
 import pandas as pd
 from PIL import Image
